@@ -44,8 +44,6 @@ export default function Home() {
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
           <span className="ml-2">me@henrywhu.cn</span>
-          <FontAwesomeIcon icon={faTwitter} width={"16px"} className="ml-3" />
-          <span className="ml-2">@HenryWHU_</span>
         </div>
         <div className="mt-4">
           <span>
